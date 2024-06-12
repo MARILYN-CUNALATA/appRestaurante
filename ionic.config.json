@@ -1,0 +1,7 @@
+{
+  "name": "mi_restaurante",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
